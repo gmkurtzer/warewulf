@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ctrliq.github.io/news</id>
+    <id>https://hpcng.github.io/news</id>
     <title>Warewulf Blog</title>
     <updated>2021-02-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ctrliq.github.io/news"/>
+    <link rel="alternate" href="https://hpcng.github.io/news"/>
     <subtitle>Warewulf Blog</subtitle>
-    <icon>https://ctrliq.github.io/img/favicon.png</icon>
+    <icon>https://hpcng.github.io/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[4.0.0]]></title>
         <id>4.0.0</id>
-        <link href="https://ctrliq.github.io/warewulf/news/4.0.0"/>
+        <link href="https://hpcng.github.io/warewulf/news/4.0.0"/>
         <updated>2021-02-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is a placeholder for the announcement that will come with the first release of Warewulf v4]]></summary>
     </entry>
